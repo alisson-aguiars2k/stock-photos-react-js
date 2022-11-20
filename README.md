@@ -1,8 +1,14 @@
 ## Stock Photos !  🎞️ 📸
+
 <br>
 
-## Uma aplicação podemos pesquisar fotos através do serviço da ( Unsplash ), com o scroll "infinito". O código foi desenvolvido usando os Hooks useState, useEffect e useRef. A estilização foi feita com a biblioteca Styled Components. 💻 📚
-<br>
+## Uma aplicação que utiliza fotos através do serviço da ( Unsplash ), com o scroll "infinito".
+
+## Projeto 🥰 💻 📚
+
+![](./src/assets/image/stock-photos.jpg)
+
+### [Stock Photos](https://react-js-stock-photos.netlify.app/) 🔗
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
@@ -12,10 +18,11 @@
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="HTML5">
 </div>
 
-<br>
+## O código foi desenvolvido usando os Hooks ;
+- useState ; 
+- useEffect ; 
+- useRef ;
+## A estilização foi feita com a biblioteca ;
+- Styled Components. 💻 📚
 
-## Projeto 🥰
 
-![](./src/assets/image/stock-photos.jpg)
-
-### [Stock Photos](https://alisson-aguiars2k.github.io/stock-photos-react-js/) 🔗

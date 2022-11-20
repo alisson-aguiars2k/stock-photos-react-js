@@ -24,5 +24,7 @@
 - useRef ;
 ## A estilização foi feita com a biblioteca ;
 - Styled Components. 💻 📚
-
+## 🎲 Rodando o Back End (servidor)
+- npm install
+- npm start
 

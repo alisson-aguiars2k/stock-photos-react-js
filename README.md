@@ -1,4 +1,4 @@
-# 🚧 Stock Photos em Manutenção... !  🎞️ 📸 🚧
+# 🚧 Stock Photos em Manutenção... 🎞️ 📸 🚧
 
 <br>
 
